@@ -1,3 +1,4 @@
+
 # Student Enrollment Form
 
 It is a student registration form that stores the user's data in JSONPowerDB. It supports REST APIs and serverless technology. Students can be added, updated based on their roll number. In this form, the roll number is automatically checked and by the help of API, the data entered into other input fields sothat the user can update accordingly. The application uses AJAX requests for smooth and fast interaction. All kinds of data can be stored, such as numbers, strings, dates, etc.
@@ -10,7 +11,9 @@ It is a student registration form that stores the user's data in JSONPowerDB. It
 - Minimum learning curves, builds faster, cuts time to market, reduces the development cost.
 - Helps developers in managing their databases using various tools and techniques.
 
-  # Release History
+
+
+# Release History
 
 ## JsonPowerDB
 
@@ -32,7 +35,6 @@ function executeCommand(reqString, apiEndPointUrl) {
     return jsonObj;
 }
 ```
-
 ## Create a PUT Request String
 
 ```javascript
